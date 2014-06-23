@@ -1,0 +1,9 @@
+[submodule "mericson-illustrator-scripts"]
+	path = mericson-illustrator-scripts
+	url = https://github.com/mericson/illustrator-scripts
+[submodule "Shanfan-Scripts"]
+	path = Shanfan-Scripts
+	url = https://github.com/Shanfan/Illustrator-Scripts-Archive
+[submodule "shspage-scripts"]
+	path = shspage-scripts
+	url = https://github.com/shspage/illustrator-scripts
