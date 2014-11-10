@@ -1,4 +1,4 @@
 illustrator-scripts-collection
 ==============================
 
-Collection of Scripts for Illustrator, included as submodules
+Collection of Scripts for Adobe Illustrator, included as submodules
